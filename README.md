@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=e34c26&color=black">
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=264de4&color=black">
 </div>
-<br>
 
 ## 📈 GitHub Stats
 <div float="left">
