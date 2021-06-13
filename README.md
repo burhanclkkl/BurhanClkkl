@@ -1,6 +1,6 @@
 # Burhan Çelikkol
 <br>
-<img src="https://giffiles.alphacoders.com/351/35142.gif" align="center"> 
+<img src="https://giffiles.alphacoders.com/351/35142.gif"> 
 
 ## 🔧 Technologies & Tools
 <div style="float:left">
