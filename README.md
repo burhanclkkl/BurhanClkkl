@@ -14,8 +14,8 @@
 
 ## 📈 GitHub Stats
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=burhanclkkl&show_icons=true&theme=dark&border_radius=10px&icon_color=purple">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanclkkl&show_icons=true&theme=dark&border_layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=burhanclkkl&show_icons=true&theme=dark&border_radius=10px&icon_color=purple" style="height:240px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanclkkl&show_icons=true&theme=dark&layout=compact" style="height:240px;">
 </div>
 
 
@@ -25,3 +25,4 @@
 <a href="mailto:burhan12celikko@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=B23121&color=black">
 </a>
 </div>
+
