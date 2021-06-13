@@ -15,7 +15,7 @@
 ## 📈 GitHub Stats
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=burhanclkkl&show_icons=true&theme=dark&border_radius=10px&icon_color=purple" style="height:240px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanclkkl&theme=dark&border_radius=10px&icon_color=purple" style="height:120px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanclkkl&theme=dark&border_radius=10px&icon_color=purple" style="height:480px;">
 </div>
 
 <br><br>    
