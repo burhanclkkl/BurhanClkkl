@@ -13,10 +13,10 @@
 <br>
 
 ## 📈 GitHub Stats
-<div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=burhanclkkl&show_icons=true&theme=dark&border_radius=10px&icon_color=purple" style="height:240px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanclkkl&show_icons=true&theme=dark&layout=compact" style="height:240px;">
-</div>
+
 
 
 <br><br>    
