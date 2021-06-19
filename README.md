@@ -14,7 +14,7 @@
 ## 📈 GitHub Stats
 <div float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=burhanclkkl&show_icons=true&theme=dark&border_radius=10px&icon_color=purple" height="150px;">
-<img src="" height="150px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanclkkl&show_icons=true&theme=dark&layout=compact" height="150px;">
 </div>
 
 <br>  
